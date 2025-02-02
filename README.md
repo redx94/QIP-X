@@ -11,7 +11,7 @@ QIP-X is an advanced quantum-integrated AI system developed by **Reece Dixon**. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/qip-x.git
+   git clone https://github.com/redx94/qip-x.git
    cd qip-x
    ```
 
